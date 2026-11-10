@@ -1,0 +1,46 @@
+{
+  "admin": {
+    "id": "1",
+    "name": "Adv. Alok Srivastava",
+    "email": "alok@lakhimpur-law.gov.in",
+    "username": "alok-srivastava",
+    "password": "admin123",
+    "role": "admin",
+    "phone": "+91-98389-12001",
+    "barNumber": "UP Bar Council 1234",
+    "joined": "2010"
+  },
+  "junior1": {
+    "id": "2",
+    "name": "Adv. Rajesh Kumar",
+    "email": "rajesh@lakhimpur-law.gov.in",
+    "username": "rajesh-kumar",
+    "password": "junior123",
+    "role": "junior",
+    "phone": "+91-98389-12002",
+    "barNumber": "UP Bar Council 5678",
+    "joined": "2018"
+  },
+  "junior2": {
+    "id": "3",
+    "name": "Adv. Priya Sharma",
+    "email": "priya@lakhimpur-law.gov.in",
+    "username": "priya-sharma",
+    "password": "junior456",
+    "role": "junior",
+    "phone": "+91-98389-12003",
+    "barNumber": "UP Bar Council 9012",
+    "joined": "2020"
+  },
+  "clerk1": {
+    "id": "4",
+    "name": "Kailash Kumar",
+    "email": "kailash@lakhimpur-law.gov.in",
+    "username": "kailash-clerk",
+    "password": "clerk123",
+    "role": "clerk",
+    "phone": "+91-98389-12004",
+    "barNumber": "",
+    "joined": "2022"
+  }
+}

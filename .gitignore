@@ -1,0 +1,4 @@
+# Verification screenshots and local artifacts
+artifacts/
+*.log
+.DS_Store

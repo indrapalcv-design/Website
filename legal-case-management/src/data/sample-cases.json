@@ -1,0 +1,323 @@
+{
+  "cases": [
+    {
+      "id": "CASE-2026-001",
+      "caseNumber": "C.C. No. 123/2026",
+      "caseTitle": "State of Uttar Pradesh vs. Mohan Lal",
+      "clientName": "Kamlesh Singh",
+      "clientPhone": "+91-98390-12345",
+      "clientEmail": "kamlesh@example.com",
+      "clientAddress": "Lakhimpur Kheri, Uttar Pradesh",
+      "oppositeParty": "State of Uttar Pradesh",
+      "courtName": "District Court, Lakhimpur",
+      "bench": "Bench I",
+      "judge": "Hon'ble Mr. Justice P.K. Srivastava",
+      "caseType": "Civil",
+      "caseStatus": "Hearing",
+      "filingDate": "2026-03-15",
+      "nextHearingDate": "2026-11-10",
+      "assignedJunior": "Adv. Rajesh Kumar",
+      "caseSummary": "Civil suit for declaration of title over ancestral agricultural land at Tehsil Sadar, Lakhimpur Kheri. Plaintiff claims possession and permanent injunction against the defendant.",
+      "importantNotes": "Key witness testimony pending. Documents under review.",
+      "documents": [
+        {
+          "id": "DOC-2026-001",
+          "name": "Vakalatnama.pdf",
+          "category": "Vakalatnama",
+          "uploadedBy": "Adv. Alok Srivastava",
+          "uploadDate": "2026-03-15",
+          "filePath": "/uploads/vakalatnama.pdf"
+        },
+        {
+          "id": "DOC-2026-002",
+          "name": "FIR Copy.pdf",
+          "category": "Evidence",
+          "uploadedBy": "Adv. Alok Srivastava",
+          "uploadDate": "2026-03-15",
+          "filePath": "/uploads/fir.pdf"
+        }
+      ],
+      "hearingHistory": [
+        {
+          "date": "2026-06-15",
+          "outcome": "Adjourned to 10 Nov 2026",
+          "notes": "Arguments heard, next date fixed"
+        },
+        {
+          "date": "2026-09-20",
+          "outcome": "Evidence submitted",
+          "notes": "Both parties submitted documents"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "TASK-001",
+          "title": "Prepare witness list",
+          "description": "List all witnesses with contact details",
+          "assignedTo": "Adv. Rajesh Kumar",
+          "dueDate": "2026-11-14",
+          "priority": "High",
+          "status": "Pending"
+        },
+        {
+          "id": "TASK-002",
+          "title": "Draft interim application",
+          "description": "File interim application for injunction",
+          "assignedTo": "Adv. Rajesh Kumar",
+          "dueDate": "2026-11-18",
+          "priority": "Medium",
+          "status": "In Progress"
+        }
+      ],
+      "payments": [
+        {
+          "amount": 5000,
+          "description": "Filing fee",
+          "date": "2026-03-15",
+          "status": "Paid"
+        },
+        {
+          "amount": 2500,
+          "description": "Process serving",
+          "date": "2026-04-01",
+          "status": "Paid"
+        }
+      ]
+    },
+    {
+      "id": "CASE-2026-002",
+      "caseNumber": "Crl. A/456/2026",
+      "caseTitle": "Ram Kumar vs. State - Bail Petition",
+      "clientName": "Ram Kumar",
+      "clientPhone": "+91-98390-67890",
+      "clientEmail": "ram@example.com",
+      "clientAddress": "Sitapur, Uttar Pradesh",
+      "oppositeParty": "State of Uttar Pradesh",
+      "courtName": "Sessions Court, Lakhimpur",
+      "bench": "Special Bench",
+      "judge": "Hon'ble Ms. Justice Anita Singh",
+      "caseType": "Criminal",
+      "caseStatus": "Evidence",
+      "filingDate": "2026-04-10",
+      "nextHearingDate": "2026-11-12",
+      "assignedJunior": "Adv. Priya Sharma",
+      "caseSummary": "Bail application in connection with FIR No. 214/2026 registered at Kotwali Lakhimpur under Sections 323, 325 and 504 IPC.",
+      "importantNotes": "Bail arguments underway. Police report received.",
+      "documents": [
+        {
+          "id": "DOC-2026-003",
+          "name": "Bail Application.pdf",
+          "category": "Petition",
+          "uploadedBy": "Adv. Alok Srivastava",
+          "uploadDate": "2026-04-10",
+          "filePath": "/uploads/bail-app.pdf"
+        }
+      ],
+      "hearingHistory": [
+        {
+          "date": "2026-07-05",
+          "outcome": "Interim bail denied",
+          "notes": "Arguments on merits"
+        },
+        {
+          "date": "2026-10-12",
+          "outcome": "Evidence recording in progress",
+          "notes": "Witness examination underway"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "TASK-003",
+          "title": "Record witness statements",
+          "description": "Record statements of eye witnesses",
+          "assignedTo": "Adv. Priya Sharma",
+          "dueDate": "2026-11-16",
+          "priority": "High",
+          "status": "Pending"
+        }
+      ],
+      "payments": [
+        {
+          "amount": 10000,
+          "description": "Bail bond",
+          "date": "2026-04-10",
+          "status": "Paid"
+        }
+      ]
+    },
+    {
+      "id": "CASE-2026-003",
+      "caseNumber": "FA/234/2026",
+      "caseTitle": "Anita Devi vs. Raj Kumar - Divorce Petition",
+      "clientName": "Anita Devi",
+      "clientPhone": "+91-98390-24680",
+      "clientEmail": "anita@example.com",
+      "clientAddress": "Lakhimpur Kheri, Uttar Pradesh",
+      "oppositeParty": "Raj Kumar",
+      "courtName": "Family Court, Lakhimpur",
+      "bench": "Family Bench",
+      "judge": "Hon'ble Ms. Justice Rekha Verma",
+      "caseType": "Family",
+      "caseStatus": "Arguments",
+      "filingDate": "2026-05-01",
+      "nextHearingDate": "2026-11-17",
+      "assignedJunior": "Adv. Rajesh Kumar",
+      "caseSummary": "Petition for dissolution of marriage under Section 13 of the Hindu Marriage Act, 1955, along with application for maintenance under Section 125 CrPC.",
+      "importantNotes": "Settlement negotiations ongoing.",
+      "documents": [
+        {
+          "id": "DOC-2026-004",
+          "name": "Marriage Certificate.pdf",
+          "category": "Evidence",
+          "uploadedBy": "Adv. Alok Srivastava",
+          "uploadDate": "2026-05-01",
+          "filePath": "/uploads/marriage-cert.pdf"
+        },
+        {
+          "id": "DOC-2026-005",
+          "name": "Affidavit.pdf",
+          "category": "Affidavit",
+          "uploadedBy": "Adv. Priya Sharma",
+          "uploadDate": "2026-09-10",
+          "filePath": "/uploads/affidavit.pdf"
+        }
+      ],
+      "hearingHistory": [
+        {
+          "date": "2026-06-10",
+          "outcome": "Counseling session held",
+          "notes": "Parties advised for settlement"
+        },
+        {
+          "date": "2026-09-25",
+          "outcome": "Arguments commenced",
+          "notes": "Both sides presented arguments"
+        }
+      ],
+      "tasks": [],
+      "payments": [
+        {
+          "amount": 7000,
+          "description": "Court fees",
+          "date": "2026-05-01",
+          "status": "Paid"
+        }
+      ]
+    },
+    {
+      "id": "CASE-2026-004",
+      "caseNumber": "W.P. 89/2026",
+      "caseTitle": "Writ Petition for Quashing FIR",
+      "clientName": "Prakash Chandra",
+      "clientPhone": "+91-98390-13579",
+      "clientEmail": "prakash@example.com",
+      "clientAddress": "Hardoi, Uttar Pradesh",
+      "oppositeParty": "State of Uttar Pradesh",
+      "courtName": "High Court, Lucknow Bench",
+      "bench": "Writ Bench",
+      "judge": "Hon'ble Mr. Justice D.K. Jain",
+      "caseType": "Writ",
+      "caseStatus": "Order Reserved",
+      "filingDate": "2026-06-20",
+      "nextHearingDate": "2026-11-24",
+      "assignedJunior": null,
+      "caseSummary": "Writ petition under Article 226 of the Constitution seeking quashing of FIR No. 445/2026 and protection against coercive action.",
+      "importantNotes": "Legal research underway. Submit notes by 20 Nov.",
+      "documents": [
+        {
+          "id": "DOC-2026-006",
+          "name": "Writ Petition.pdf",
+          "category": "Petition",
+          "uploadedBy": "Adv. Alok Srivastava",
+          "uploadDate": "2026-06-20",
+          "filePath": "/uploads/writ-petition.pdf"
+        }
+      ],
+      "hearingHistory": [
+        {
+          "date": "2026-08-15",
+          "outcome": "Notice issued to respondent",
+          "notes": "Show cause notice returned"
+        },
+        {
+          "date": "2026-10-25",
+          "outcome": "Hearing completed, order reserved",
+          "notes": "Judgment reserved"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "TASK-004",
+          "title": "Research case laws",
+          "description": "Research similar writ petitions and judgments",
+          "assignedTo": null,
+          "dueDate": "2026-11-20",
+          "priority": "Urgent",
+          "status": "Pending"
+        }
+      ],
+      "payments": []
+    },
+    {
+      "id": "CASE-2026-005",
+      "caseNumber": "R.A. 123/2026",
+      "caseTitle": "Revenue Case - Land Dispute",
+      "clientName": "Vijay Singh",
+      "clientPhone": "+91-98390-35791",
+      "clientEmail": "vijay@example.com",
+      "clientAddress": "Lakhimpur Kheri, Uttar Pradesh",
+      "oppositeParty": "Tehsil Authority, Lakhimpur",
+      "courtName": "Revenue Court, Lakhimpur",
+      "bench": "Revenue Division",
+      "judge": "Revenue Officer S.P. Mishra",
+      "caseType": "Revenue",
+      "caseStatus": "Filing",
+      "filingDate": "2026-07-15",
+      "nextHearingDate": "2026-12-02",
+      "assignedJunior": "Adv. Priya Sharma",
+      "caseSummary": "Revenue appeal against mutation order dated 12.06.2026 passed by the Tehsildar, Sadar, in respect of Khata No. 45, Village Bhira.",
+      "importantNotes": "Land measurement pending. Survey team deployed.",
+      "documents": [
+        {
+          "id": "DOC-2026-007",
+          "name": "Land Record Copy.pdf",
+          "category": "Evidence",
+          "uploadedBy": "Adv. Alok Srivastava",
+          "uploadDate": "2026-07-15",
+          "filePath": "/uploads/land-record.pdf"
+        }
+      ],
+      "hearingHistory": [
+        {
+          "date": "2026-09-01",
+          "outcome": "Survey ordered",
+          "notes": "Physical verification ordered"
+        },
+        {
+          "date": "2026-10-15",
+          "outcome": "Measurement in progress",
+          "notes": "Boundary marking completed"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "TASK-005",
+          "title": "Coordinate survey",
+          "description": "Coordinate with survey team for land measurement",
+          "assignedTo": "Adv. Priya Sharma",
+          "dueDate": "2026-11-22",
+          "priority": "Medium",
+          "status": "In Progress"
+        }
+      ],
+      "payments": [
+        {
+          "amount": 3000,
+          "description": "Court fees",
+          "date": "2026-07-15",
+          "status": "Paid"
+        }
+      ]
+    }
+  ]
+}
